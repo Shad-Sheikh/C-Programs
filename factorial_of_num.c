@@ -1,4 +1,4 @@
-//Program for calculating a square of a whole number in C    => Document section
+//Program for calculating factorial of a number in C    => Document section
 #include <stdio.h>                                           //Link Section
 int main()                                                   //main function with return type int
 {
