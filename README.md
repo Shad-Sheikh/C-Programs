@@ -4,7 +4,7 @@ This repository contain basic programs of C language.
 PROGRAMS
 
 1. [WAP to print Hello World in C.](https://github.com/Shad-Sheikh/C-language-Programs/blob/master/C-Programs/Hello_World_Program.c)
-2. [WAP to find the area of circle.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Area_of_shape.c)
+2. [WAP to find the area of Shapes.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Area_of_shape.c)
 3. [WAP to print Fibonacci series until given terms.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Fibonacci_series.c)
 4. [WAP to find the factorial of a number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/factorial_of_num.c)
 5. [WAP to display sum of digits of a number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/sum_of_digits.c)
