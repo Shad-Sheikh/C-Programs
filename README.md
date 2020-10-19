@@ -20,6 +20,12 @@ PROGRAMS
 15. [WAP that accept character from user and print its ASCII value.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/ASCII.c)
 16. [WAP that accept a three digit number from user and obtain reverse of the number and then calculate sum of all the digits.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/reverse_of_number.c)
 17. [WAP that accept numeric value from user and print its corresponding character.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/charector.c)
+18. [WAP that accept a number from user and check whether it is positive or negative or zero.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/18_positive_negative.c)
+19. [WAP to calculate first number is divisible by second or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/19_divisiblitiy)
+20. [WAP that except a three digit number from user and check whether it is palindrome or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/20_Palindrome_num.c)
+21. [WAP that accepts a three digit number from user and check whether it is Armstrong or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/21_Armstrong)
+22. [WAP to calculate area and perimeter of rectangle then calculate which one (out of area and perimeter) is greater.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/22_area_perimeter)
+
 
 [WAP to find the area of Shapes.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Area_of_shape.c)
 
