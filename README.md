@@ -25,6 +25,20 @@ PROGRAMS
 20. [WAP that except a three digit number from user and check whether it is palindrome or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/20_Palindrome_num.c)
 21. [WAP that accepts a three digit number from user and check whether it is Armstrong or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/21_Armstrong)
 22. [WAP to calculate area and perimeter of rectangle then calculate which one (out of area and perimeter) is greater.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/22_area_perimeter)
+23. [WAP that accepts a three digit number from user and find the greatest digit in it. ](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/23_greatest_digit.c)
+24. [WAP to calculate whether year is leap or not ?](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/24_leap_year.c)
+25. [WAP to calculate whether a charector is vowel or consonant.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/25_vowel_consonent.c)
+26. [WAP to calculate whether a character is lowercase or uppercase.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/26_lowercase_to_uppercase.c)
+27. [ WAP to calculate smallest number out of given three numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/27_smallest_no.c)
+28. [WAP to calculate largest number out of given four numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/28_largest.c)
+
+
+
+
+
+
+
+
 
 
 [WAP to find the area of Shapes.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Area_of_shape.c)
