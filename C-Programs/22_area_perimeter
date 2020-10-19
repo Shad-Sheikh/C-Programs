@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main()
+{
+int length,breadth,area,perimeter;
+printf("Enter lenthg and breath : ");
+scanf("%d%d",&length,&breadth);
+area = length*breadth;
+perimeter = 2 * (length+breadth);
+printf("\nArea of Rectangle=%d",area);
+printf("\nPerimiter of Rectangle=%d",perimeter);
+if (area>perimeter)
+{
+printf("\nArea is greater than parimiter");
+}
+else
+{
+printf("\nPerimiter is greater than area");
+}
+}                                     
