@@ -20,7 +20,7 @@ PROGRAMS
 
 [WAP to print Fibonacci series until given terms.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Fibonacci_series.c)
 
-[WAP to calculate square of a given number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/factorial_of_num.c)
+[WAP to calculate Factorial of a given number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/factorial_of_num.c)
 
 [WAP to display sum of digits of a number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/sum_of_digits.c)
 
