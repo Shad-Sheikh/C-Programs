@@ -87,3 +87,8 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 57. [WAP to convert decimal number to binary](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/57_decimal_binary.c)
 58. [WAP to print table for numbers between 2 to 10](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/58_table.c)
 59. [WAP to print different patterns](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/59_patterns.c)
+
+#Function
+
+60. [WAP to calculate factorial using function with return type and argument](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/60_fact_fun.c)
+61. [WAP to check the prime number using function with argument and return type](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/61_prime_fun.c)
