@@ -47,7 +47,8 @@ percentage >=60 grade A
 percentage >=50 grade B
 percentage >=40 grade C
 percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/32_grade.c)
-33. [WAP for generating electricity Bill. Accept last month unit and current month unit from user, then Calculator and print bill amount according to the following condition for units  0-100 charge unit 2rs/unit  101-200 charge unit 3rs/unit  201-300 charge unit 4rs/unit  >300 charge unit 5rs/unit ](https://github.com/Shad-Sheikh/C Programs/blob/master/C-Programs/33_electricity_bill.c)
+33. [WAP for generating electricity Bill. Accept last month unit and current month unit from user, then Calculator and print bill amount according to the following condition for units  0-100 charge unit 2rs/unit  101-200 charge unit 3rs/unit  201-300 charge unit 4rs/unit  >300 charge unit 5rs/unit 
+](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/33_electricity_bill.c)
 34. [WAP to enter three subject marks (out of 100). Check if the student is pass or fail, only if he/she scores greater than 75 in each subject and the average of all three subject marks should be greater than 80.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/34_marks.c)
 
 
