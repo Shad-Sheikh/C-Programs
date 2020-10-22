@@ -27,7 +27,8 @@ c = ++a * --b - a++ / --a](https://github.com/Shad-Sheikh/C-Programs/blob/master
 16. [WAP that accept character from user and print its ASCII value.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/ASCII.c)
 17. [WAP that accept a three digit number from user and obtain reverse of the number and then calculate sum of all the digits.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/reverse_of_number.c)
 18. [WAP that accept numeric value from user and print its corresponding character.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/charector.c)
-19. [WAP to calculate gross salary and net salary by accepting basic salary from user. Formula used : Gross salary = basic + DA + TA and Net salary =  Gross salary - PF
+19. [WAP to calculate gross salary and net salary by accepting basic salary from user. 
+Formula used : Gross salary = basic + DA + TA and Net salary =  Gross salary - PF
 TA is 10% of basic salary , PF is 7.8%     of basic salary and DA is 500RS.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/19_salary.c)
 
 
