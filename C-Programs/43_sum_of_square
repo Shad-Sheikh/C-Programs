@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{                                      
+int i,num,term,sum=0;
+printf("Enter no of terms : ");
+scanf("%d",&term);
+for(i=1;i<=term;i++)
+    {
+    printf("Enter numbers : ");
+    scanf("%d",&num);
+    sum += (num*num);
+	}
+
+    printf("Sum of square of all numbers = %d",sum);
+}
