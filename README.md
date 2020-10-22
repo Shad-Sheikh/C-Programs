@@ -79,7 +79,6 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 52. [WAP to find HCF of two numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/52_HCF.c)
 53. [WAP to calculate number is Prime or not](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/53_prime_no.c)
 
-
-[WAP to find the whether a number is prime or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/prime_no.c)
+#Nested loop
 
 [WAP to print pattern.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/pattern_1.c)
