@@ -96,3 +96,8 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 63. [WAP to display below pattern using function with number of rows in pattern as argument](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/63_pattern_fun.c)
 64. [ WAP to calculate LCM and HCF using function without return type and without argument](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/64_lcm_hcf_fun.c)
 65. [WAP to calculate Fibonacci series using without return type and with argument](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/65_fibonacci_fun)
+
+#pointer
+
+66. [Pass address of an integer variable to void function and double the value of variable](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/66_double_pointer.c)
+67. [Pass three integer variable to function using call by reference mechanism and store sum of two into third variable. ](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/67_sum_by_reference.c)
