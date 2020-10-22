@@ -31,7 +31,7 @@ TA is 10% of basic salary , PF is 7.8%     of basic salary and DA is 500RS.](htt
 
 20. [WAP that accept a number from user and check whether it is positive or negative or zero.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/20_positive_negative.c)
 21. [WAP to calculate first number is divisible by second or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/21_divisiblitiy)
-22. [WAP that except a three digit number from user and check whether it is palindrome or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/22_Palindrome_num.c)
+22. [WAP that except a three digit number from user and check whether it is palindrome or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/22_palindrom.c)
 23. [WAP that accepts a three digit number from user and check whether it is Armstrong or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/23_Armstrong)
 24. [WAP to calculate area and perimeter of rectangle then calculate which one (out of area and perimeter) is greater.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/24_area_perimeter)
 25. [WAP that accepts a three digit number from user and find the greatest digit in it. ](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/25_greatest_digit.c)
