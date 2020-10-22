@@ -71,6 +71,13 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 47. [WAP to check whether the given number is Armstrong or not](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/47.%20%20Armstrong2.c)
 48. [WAP to find factors of any number](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/48_factors)
 
+#Jumping Statements
+
+49. [WAP to calculate number entered is a perfect number or not (sum of factors of a number is the number like 6) ](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/49_perfect_number.c)
+50. [WAP to accept n number from user and show how many numbers are even or odd.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/50_num_of_even_odd.c)
+51. [WAP to find LCM of two numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/51_LCM.c)
+52. [WAP to find HCF of two numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/52_HCF.c)
+53. [WAP to calculate number is Prime or not](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/53_prime_no.c)
 
 
 [WAP to find the whether a number is prime or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/prime_no.c)
