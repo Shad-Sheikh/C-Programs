@@ -17,10 +17,10 @@ OPERATORS :-
 9. [WAP to calculate average of three numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/average_of_3_num.c)
 10. [WAP to calculate temperature conversion from Celsius to Fahrenheit](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/convert_celsius_to_fahrenheit.c)
 11. [WAP to calculate temperature conversion from Fahrenheit to Celsius.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/convert_Fahrenheit_Celsius.c)
-12. [11.WAP to solve following operation and print final of a,b and c
-c = a++ + ++b
-c = ++b - --b - --a + a++
-c = ++a * --b - a++ / --a](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/12_inc_dec_opt.c)
+12. [WAP to solve following operation and print final of a,b and c
+\n c = a++ + ++b
+\n c = ++b - --b - --a + a++
+\n c = ++a * --b - a++ / --a](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/12_inc_dec_opt.c)
 13. [WAP to calculate out how many currencies are required for perticular amount.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Currency.c)
 14. [WAP that accepts four digit number from user and calculate the sum of first and last digit.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/first_last_digit_sum.c)
 15. [WAP Write a program that accepts marks of five subjects from user and calculate the total marks and then calculate the  percent out of 500. Also print result whether student is PASS or FAIL.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/result.c)
