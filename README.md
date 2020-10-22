@@ -29,21 +29,31 @@ TA is 10% of basic salary , PF is 7.8%     of basic salary and DA is 500RS.](htt
 
 #if/else :-
 
-18. [WAP that accept a number from user and check whether it is positive or negative or zero.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/18_positive_negative.c)
-19. [WAP to calculate first number is divisible by second or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/19_divisiblitiy)
-20. [WAP that except a three digit number from user and check whether it is palindrome or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/20_Palindrome_num.c)
-21. [WAP that accepts a three digit number from user and check whether it is Armstrong or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/21_Armstrong)
-22. [WAP to calculate area and perimeter of rectangle then calculate which one (out of area and perimeter) is greater.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/22_area_perimeter)
-23. [WAP that accepts a three digit number from user and find the greatest digit in it. ](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/23_greatest_digit.c)
-24. [WAP to calculate whether year is leap or not ?](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/24_leap_year.c)
-25. [WAP to calculate whether a charector is vowel or consonant.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/25_vowel_consonent.c)
-26. [WAP to calculate whether a character is lowercase or uppercase.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/26_lowercase_to_uppercase.c)
-27. [ WAP to calculate smallest number out of given three numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/27_smallest_no.c)
-28. [WAP to calculate largest number out of given four numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/28_largest.c)
-
-
-
-
+20. [WAP that accept a number from user and check whether it is positive or negative or zero.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/18_positive_negative.c)
+21. [WAP to calculate first number is divisible by second or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/19_divisiblitiy)
+22. [WAP that except a three digit number from user and check whether it is palindrome or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/20_Palindrome_num.c)
+23. [WAP that accepts a three digit number from user and check whether it is Armstrong or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/21_Armstrong)
+24. [WAP to calculate area and perimeter of rectangle then calculate which one (out of area and perimeter) is greater.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/22_area_perimeter)
+25. [WAP that accepts a three digit number from user and find the greatest digit in it. ](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/23_greatest_digit.c)
+26. [WAP to calculate whether year is leap or not ?](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/24_leap_year.c)
+27. [WAP to calculate whether a charector is vowel or consonant.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/25_vowel_consonent.c)
+28. [WAP to calculate whether a character is lowercase or uppercase.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/26_lowercase_to_uppercase.c)
+29. [ WAP to calculate smallest number out of given three numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/27_smallest_no.c)
+30. [WAP to calculate largest number out of given four numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/28_largest.c)
+31. [WAP to accept basic salary from user, if basic salary is between 0 and 10000 then TA is 10% of basic salary, DA is 5% of basic salary. If salary is above 10000 then TA is 12% of the basic salary, DA is 6% of basic.  Now calculate gross salary as gs = basic_salary + TA + DA?](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/31_salary.c)
+32. [WAP that accept marks (out of 100) of five subjects from user and calculate the sum then calculate percentage? 
+Display message according to following condition 
+percentage >=60 grade A
+percentage >=50 grade B
+percentage >=40 grade C
+percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/32_grade.c)
+33. [WAP for generating electricity Bill. Accept last month unit and current month unit from user, 
+then Calculator and print bill amount according to the following condition for units
+0-100 charge unit 2rs/unit
+101-200 charge unit 3rs/unit
+201-300 charge unit 4rs/unit
+>300 charge unit 5rs/unit ](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/33_electricity_bill.c)
+34. [WAP to enter three subject marks (out of 100). Check if the student is pass or fail, only if he/she scores greater than 75 in each subject and the average of all three subject marks should be greater than 80.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/34_marks.c)
 
 
 [WAP to find the area of Shapes.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Area_of_shape.c)
