@@ -51,8 +51,14 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 ](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/33_electricity_bill.c)
 34. [WAP to enter three subject marks (out of 100). Check if the student is pass or fail, only if he/she scores greater than 75 in each subject and the average of all three subject marks should be greater than 80.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/34_marks.c)
 
+#switch-case
 
-[WAP to find the area of Shapes.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Area_of_shape.c)
+35. [WAP to caculate area of different shapes based on user choice(square, circle and rectangle)](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/35_Area_of_shape.c)
+36. [WAP to show day of week according to user input](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/36_day_of_week.c)
+37. [WAP to check if entered character is vowel or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/37_vowel.c)
+38. [WAP to check whether a number is even or Odd using switch case](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/38_even_odd.c)
+39. []()
+
 
 [WAP to print Fibonacci series until given terms.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Fibonacci_series.c)
 
