@@ -101,3 +101,9 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 
 66. [Pass address of an integer variable to void function and double the value of variable](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/66_double_pointer.c)
 67. [Pass three integer variable to function using call by reference mechanism and store sum of two into third variable. ](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/67_sum_by_reference.c)
+
+#Array
+
+68. [WAP to store 10 number in array and calculate its sum and average](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/68_avg_array.c)
+69. [WAP to find maximum and element in array element](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/69_max_array.c)
+70. [WAP to reverse eliment in array](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/70_rev_array.c)
