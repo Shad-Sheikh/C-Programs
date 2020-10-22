@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int num,i,term,s=0,arm,tem,rem;
+int num,i,term,arm = 0,tem,rem;
 printf("Enter a no:");
 scanf("%d",&num);
 tem=num;
