@@ -1,11 +1,11 @@
 # C-language-Programs
 This repository contain basic programs of C language.
 
-PROGRAMS
+PROGRAMS :-
 
 1. [WAP to print Hello World in C.](https://github.com/Shad-Sheikh/C-language-Programs/blob/master/C-Programs/Hello_World_Program.c)
 
-OPERATORS :-
+#OPERATORS :-
 
 2. [WAP to find the Square of a number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/square_of_number.c)
 3. [WAP to swape using third variable.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/swap.c)
@@ -27,10 +27,8 @@ OPERATORS :-
 19. [WAP to calculate gross salary and net salary by accepting basic salary from user. Formula used : Gross salary = basic + DA + TA and Net salary =  Gross salary - PF
 TA is 10% of basic salary , PF is 7.8%     of basic salary and DA is 500RS.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/19_salary.c)
 
+#if/else :-
 
-
-
-if/else :-
 18. [WAP that accept a number from user and check whether it is positive or negative or zero.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/18_positive_negative.c)
 19. [WAP to calculate first number is divisible by second or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/19_divisiblitiy)
 20. [WAP that except a three digit number from user and check whether it is palindrome or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/20_Palindrome_num.c)
