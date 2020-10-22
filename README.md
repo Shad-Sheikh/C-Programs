@@ -92,3 +92,7 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 
 60. [WAP to calculate factorial using function with return type and argument](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/60_fact_fun.c)
 61. [WAP to check the prime number using function with argument and return type](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/61_prime_fun.c)
+62. [WAP to caclulate a^b using function a and b as arguments and return redult.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/62_power.c)
+63. [WAP to display below pattern using function with number of rows in pattern as argument](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/63_pattern_fun.c)
+64. [ WAP to calculate LCM and HCF using function without return type and without argument](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/64_lcm_hcf_fun.c)
+65. [WAP to calculate Fibonacci series using without return type and with argument](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/65_fibonacci_fun)
