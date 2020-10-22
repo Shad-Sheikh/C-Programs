@@ -58,11 +58,7 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 
 [WAP to calculate Factorial of a given number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/factorial_of_num.c)
 
-[WAP to display sum of digits of a number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/sum_of_digits.c)
-
 [WAP to find the whether a number is prime or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/prime_no.c)
-
-[WAP to find the whether a number is palindrome or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Palindrome_num.c)
 
 [WAP to print table of any natural number upto 10.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Number_table.c)
 
