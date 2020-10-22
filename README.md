@@ -3,18 +3,18 @@ This repository contain basic programs of C language.
 
 PROGRAMS :-
 
-1. [WAP to print Hello World in C.](https://github.com/Shad-Sheikh/C-language-Programs/blob/master/C-Programs/1_Hello_World_Program.c)
+1. [WAP to print Hello World in C.](https://github.com/Shad-Sheikh/C-language-Programs/blob/master/C-Programs/01_Hello_World_Program.c)
 
 #OPERATORS :-
 
-2. [WAP to find the Square of a number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/2_square_of_number.c)
-3. [WAP to swape using third variable.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/3_swap.c)
-4. [WAP Swape without using third Variable.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/4_swap_without_3rd_variable.c)
-5. [WAP to calculate area of Triangle.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/5_Area_triangle.c)
-6. [WAP to calculate area of Circle](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/6_Area_of_circle.c)
-7. [WAP to calculate Simple Interest](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/7_Simple_intreser.c)
-8. [WAP to convert distance from KM to MM.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/8_convet_KM_MM.c)
-9. [WAP to calculate average of three numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/9_average_of_3_num.c)
+2. [WAP to find the Square of a number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/02_square_of_number.c)
+3. [WAP to swape using third variable.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/03_swap.c)
+4. [WAP Swape without using third Variable.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/04_swap_without_3rd_variable.c)
+5. [WAP to calculate area of Triangle.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/05_Area_triangle.c)
+6. [WAP to calculate area of Circle](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/06_Area_of_circle.c)
+7. [WAP to calculate Simple Interest](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/07_Simple_intreser.c)
+8. [WAP to convert distance from KM to MM.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/08_convet_KM_MM.c)
+9. [WAP to calculate average of three numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/09_average_of_3_num.c)
 10. [WAP to calculate temperature conversion from Celsius to Fahrenheit](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/10_convert_celsius_to_fahrenheit.c)
 11. [WAP to calculate temperature conversion from Fahrenheit to Celsius.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/11_convert_Fahrenheit_Celsius.c)
 12. [WAP to solve following operation and print final of a,b and c 1. c = a++ + ++b  2. c = ++b - --b - --a + a++  3. c = ++a * --b - a++ / --a](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/12_inc_dec_opt.c)
