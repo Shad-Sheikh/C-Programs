@@ -57,15 +57,22 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 36. [WAP to show day of week according to user input](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/36_day_of_week.c)
 37. [WAP to check if entered character is vowel or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/37_vowel.c)
 38. [WAP to check whether a number is even or Odd using switch case](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/38_even_odd.c)
-39. []()
+
+#loop
+
+39. [WAP to calculate factorial of any number](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/39_factorial_of_num.c)
+40. [WAP to print table of a given number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/40_number_table.c)
+41. [WAP to print Fibonacci series.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/41_fibonacci_series.c)
+42. [WAP that accepts n number from user and calculate Maximum and Minimum value.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/42_max_min_n_num.c)
+43. [WAP to calculate Sum of square of n natural number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/43_sum_of_square)
+44. [WAP to calculate sum of series (1/1+1/2+1/3+...)](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/44_sum_of_series.c)
+45. [WAP to calculate sum of series (1/1! +1/2! +1/3! +...)](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/45_sum_of_series2.c)
+46. [WAP to calculate sum of digits of a number](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/46_sum_of_digit.c)
+47. [WAP to check whether the given number is Armstrong or not](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/47.%20%20Armstrong2.c)
+48. [WAP to find factors of any number](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/48_factors)
 
 
-[WAP to print Fibonacci series until given terms.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Fibonacci_series.c)
-
-[WAP to calculate Factorial of a given number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/factorial_of_num.c)
 
 [WAP to find the whether a number is prime or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/prime_no.c)
-
-[WAP to print table of any natural number upto 10.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Number_table.c)
 
 [WAP to print pattern.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/pattern_1.c)
