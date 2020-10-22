@@ -4,6 +4,8 @@ This repository contain basic programs of C language.
 PROGRAMS
 
 1. [WAP to print Hello World in C.](https://github.com/Shad-Sheikh/C-language-Programs/blob/master/C-Programs/Hello_World_Program.c)
+
+OPERATORS :-
 2. [WAP to find the Square of a number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/square_of_number.c)
 3. [WAP to swape using third variable.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/swap.c)
 4. [WAP Swape without using third Variable.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/swap_without_3rd_variable.c)
@@ -14,12 +16,23 @@ PROGRAMS
 9. [WAP to calculate average of three numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/average_of_3_num.c)
 10. [WAP to calculate temperature conversion from Celsius to Fahrenheit](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/convert_celsius_to_fahrenheit.c)
 11. [WAP to calculate temperature conversion from Fahrenheit to Celsius.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/convert_Fahrenheit_Celsius.c)
-12. [WAP to calculate out how many currencies are required for perticular amount.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Currency.c)
-13. [WAP that accepts four digit number from user and calculate the sum of first and last digit.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/first_last_digit_sum.c)
-14. [WAP Write a program that accepts marks of five subjects from user and calculate the total marks and then calculate the  percent out of 500. Also print result whether student is PASS or FAIL.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/result.c)
-15. [WAP that accept character from user and print its ASCII value.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/ASCII.c)
-16. [WAP that accept a three digit number from user and obtain reverse of the number and then calculate sum of all the digits.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/reverse_of_number.c)
-17. [WAP that accept numeric value from user and print its corresponding character.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/charector.c)
+12. [11.WAP to solve following operation and print final of a,b and c
+c = a++ + ++b
+c = ++b - --b - --a + a++
+c = ++a * --b - a++ / --a](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/12_inc_dec_opt.c)
+13. [WAP to calculate out how many currencies are required for perticular amount.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Currency.c)
+14. [WAP that accepts four digit number from user and calculate the sum of first and last digit.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/first_last_digit_sum.c)
+15. [WAP Write a program that accepts marks of five subjects from user and calculate the total marks and then calculate the  percent out of 500. Also print result whether student is PASS or FAIL.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/result.c)
+16. [WAP that accept character from user and print its ASCII value.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/ASCII.c)
+17. [WAP that accept a three digit number from user and obtain reverse of the number and then calculate sum of all the digits.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/reverse_of_number.c)
+18. [WAP that accept numeric value from user and print its corresponding character.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/charector.c)
+19. [WAP to calculate gross salary and net salary by accepting basic salary from user. Formula used : Gross salary = basic + DA + TA and Net salary =  Gross salary - PF
+TA is 10% of basic salary , PF is 7.8%     of basic salary and DA is 500RS.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/19_salary.c)
+
+
+
+
+if/else :-
 18. [WAP that accept a number from user and check whether it is positive or negative or zero.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/18_positive_negative.c)
 19. [WAP to calculate first number is divisible by second or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/19_divisiblitiy)
 20. [WAP that except a three digit number from user and check whether it is palindrome or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/20_Palindrome_num.c)
@@ -31,10 +44,6 @@ PROGRAMS
 26. [WAP to calculate whether a character is lowercase or uppercase.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/26_lowercase_to_uppercase.c)
 27. [ WAP to calculate smallest number out of given three numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/27_smallest_no.c)
 28. [WAP to calculate largest number out of given four numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/28_largest.c)
-
-
-
-
 
 
 
