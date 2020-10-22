@@ -81,4 +81,9 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 
 #Nested loop
 
-[WAP to print pattern.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/pattern_1.c)
+54. [WAP to print prime numbers from 1 to 100](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/54_prime_1_to_100.c)
+55. [WAP to print Armstrong number from  100 or 999](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/55_armstrong_100_to_999.c)
+56. [WAP to calculate sum 0f first 10 even numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/56_sum_of_even.c)
+57. [WAP to convert decimal number to binary](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/57_decimal_binary.c)
+58. [WAP to print table for numbers between 2 to 10](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/58_table.c)
+59. [WAP to print different patterns](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/59_patterns.c)
