@@ -51,14 +51,14 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 ](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/33_electricity_bill.c)
 34. [WAP to enter three subject marks (out of 100). Check if the student is pass or fail, only if he/she scores greater than 75 in each subject and the average of all three subject marks should be greater than 80.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/34_marks.c)
 
-#switch-case
+#switch-case :-
 
 35. [WAP to caculate area of different shapes based on user choice(square, circle and rectangle)](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/35_Area_of_shape.c)
 36. [WAP to show day of week according to user input](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/36_day_of_week.c)
 37. [WAP to check if entered character is vowel or not.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/37_vowel.c)
 38. [WAP to check whether a number is even or Odd using switch case](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/38_even_odd.c)
 
-#loop
+#loop :-
 
 39. [WAP to calculate factorial of any number](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/39_factorial_of_num.c)
 40. [WAP to print table of a given number.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/40_number_table.c)
@@ -71,7 +71,7 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 47. [WAP to check whether the given number is Armstrong or not](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/47.%20%20Armstrong2.c)
 48. [WAP to find factors of any number](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/48_factors)
 
-#Jumping Statements
+#Jumping Statements :-
 
 49. [WAP to calculate number entered is a perfect number or not (sum of factors of a number is the number like 6) ](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/49_perfect_number.c)
 50. [WAP to accept n number from user and show how many numbers are even or odd.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/50_num_of_even_odd.c)
@@ -79,7 +79,7 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 52. [WAP to find HCF of two numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/52_HCF.c)
 53. [WAP to calculate number is Prime or not](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/53_prime_no.c)
 
-#Nested loop
+#Nested loop :-
 
 54. [WAP to print prime numbers from 1 to 100](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/54_prime_1_to_100.c)
 55. [WAP to print Armstrong number from  100 or 999](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/55_armstrong_100_to_999.c)
