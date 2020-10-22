@@ -17,18 +17,14 @@ OPERATORS :-
 9. [WAP to calculate average of three numbers.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/average_of_3_num.c)
 10. [WAP to calculate temperature conversion from Celsius to Fahrenheit](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/convert_celsius_to_fahrenheit.c)
 11. [WAP to calculate temperature conversion from Fahrenheit to Celsius.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/convert_Fahrenheit_Celsius.c)
-12. [WAP to solve following operation and print final of a,b and c
-\n c = a++ + ++b
-\n c = ++b - --b - --a + a++
-\n c = ++a * --b - a++ / --a](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/12_inc_dec_opt.c)
+12. [WAP to solve following operation and print final of a,b and c 1. c = a++ + ++b  2. c = ++b - --b - --a + a++  3. c = ++a * --b - a++ / --a](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/12_inc_dec_opt.c)
 13. [WAP to calculate out how many currencies are required for perticular amount.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/Currency.c)
 14. [WAP that accepts four digit number from user and calculate the sum of first and last digit.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/first_last_digit_sum.c)
 15. [WAP Write a program that accepts marks of five subjects from user and calculate the total marks and then calculate the  percent out of 500. Also print result whether student is PASS or FAIL.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/result.c)
 16. [WAP that accept character from user and print its ASCII value.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/ASCII.c)
 17. [WAP that accept a three digit number from user and obtain reverse of the number and then calculate sum of all the digits.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/reverse_of_number.c)
 18. [WAP that accept numeric value from user and print its corresponding character.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/charector.c)
-19. [WAP to calculate gross salary and net salary by accepting basic salary from user. 
-Formula used : Gross salary = basic + DA + TA and Net salary =  Gross salary - PF
+19. [WAP to calculate gross salary and net salary by accepting basic salary from user. Formula used : Gross salary = basic + DA + TA and Net salary =  Gross salary - PF
 TA is 10% of basic salary , PF is 7.8%     of basic salary and DA is 500RS.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/19_salary.c)
 
 
