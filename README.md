@@ -123,3 +123,15 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 78. [WAP to copy the string without using library function](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/78_len_string.c)
 79. [WAP to Concatenate the string without using library function](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/79_concate_string.c)
 80. [WAP to create a function to reverse the string passing a string pointer to a function without using library function](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/80_rev_string.c)
+81. [WAP to accespt string and count , vowel , consonent , number and spaces](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/81_count.c) 
+82. [WAP to accept string and convert string into uppercase](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/82_low_upr.c)
+83. [WAP to accept two string and merge that string into third](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/83_merge_stirng.c)
+84. [WAP to accept string and check it is palindrome or not](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/84_palindrom_str.c)
+85. [WAP a program to do the following : 
+Print "who is the inventor of C" in console
+Accept an answer from the user
+If it is "Dennis Ritchie" then print "good"
+If output is something else print "try again"
+](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/85_condition.c)
+86. [WAP to convert full form into Short form](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/86_full_form)
+87. [WAP in which user enters a number in digit and convert it into word](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/87_no_digit.c)
