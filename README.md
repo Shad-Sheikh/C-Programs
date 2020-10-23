@@ -116,3 +116,10 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 74. [WAP to calculate multiplication of Matrix](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/74_Matrix_mul.c)
 75. [WAP to display transpose of matrix](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/75_Matrix_trp.c)
 76. [WAP to print sum of diagonal element of Matrix](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/76_Matrix_sum_diagonally.c)
+
+#String
+
+77. [WAP to calculate length of the string without using library function](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/77_len_string.c)
+78. [WAP to copy the string without using library function](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/78_len_string.c)
+79. [WAP to Concatenate the string without using library function](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/79_concate_string.c)
+80. [WAP to create a function to reverse the string passing a string pointer to a function without using library function](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/80_rev_string.c)
