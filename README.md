@@ -107,3 +107,12 @@ percentage <40   grade D](https://github.com/Shad-Sheikh/C-Programs/blob/master/
 68. [WAP to store 10 number in array and calculate its sum and average](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/68_avg_array.c)
 69. [WAP to find maximum and element in array element](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/69_max_array.c)
 70. [WAP to reverse eliment in array](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/70_rev_array.c)
+71. [WAP to merge two arrays in third array.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/71_merging_of_array.c)
+72. [WAP to find second highest number in array](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/72_sec_highest_no_array.c)
+
+#2D-Array
+
+73. [WAP to calculate addition of Matrix](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/73_Matrix_add.c)
+74. [WAP to calculate multiplication of Matrix](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/74_Matrix_mul.c)
+75. [WAP to display transpose of matrix](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/75_Matrix_trp.c)
+76. [WAP to print sum of diagonal element of Matrix](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/76_Matrix_sum_diagonally.c)
