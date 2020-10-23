@@ -9,5 +9,5 @@ printf("Upper case of string : ");
 puts(strupr(string));
 return 0;
 }
-*/
+
 
