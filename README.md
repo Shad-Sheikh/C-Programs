@@ -135,3 +135,10 @@ If output is something else print "try again"
 ](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/85_condition.c)
 86. [WAP to convert full form into Short form](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/86_full_form)
 87. [WAP in which user enters a number in digit and convert it into word](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/87_no_digit.c)
+
+#Structure
+
+88. [WAP to create a structure Emp to store Employee Record (empid,name,salary)](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/88_Emp_struct.c) 
+89. [WAP to create a structure student with following members (roll , name , course , percent). Store five student information and generate a report containing student data in tabular format](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/89_student_struct.c)
+90. [WAP to create a structure to store six product details (pid , name , quantity , price ).Print in Alphabtical order by product name](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/90_product_struct.c)
+91. [ WAP to create structure to store six Employee record (eid,name,salary) and print about those employee whose salary is greater than 20,000](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/91_employee_struct.c)
