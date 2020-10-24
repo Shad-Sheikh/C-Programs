@@ -146,3 +146,11 @@ If output is something else print "try again"
 93. [WAP to degine a structure to hold the data for a mailing list (name and mail'id). Write a function to print out data.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/93_mail_struct.c)
 94. [WAP to degine a structure to store time and date (time should be nested in which it should accept hour , min , sec). Write a function to find the difference between two times in minutes](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/94_time_struct.c)
 95. [WAP to degine airline reservation data structure that contain the following data : Flight number, originating airpot code (three characters), Destination airpot code (three characters), Starting time and Arrival time. Display the flight with the above mentioned information using structure with pointer](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/95_flight_struct)
+
+#File Handling
+
+96. [WAP to display file data in uppercase.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/96_file_uppercase.c)
+97. [WAP to find number of words in a file.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/97_word_file.c)
+98. [WAP to copy content from one fille to another file.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/98_copy_file.c)
+99. [WAP to deine a user define function in C to read the content from a text file MYbook.txt , count and display the number of blank spaces present in it.](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/99_spaces_file.c)
+100. [WAP to creat a file to store and display the student information (rollno, name, course, percent) using fscanf() and printf().](https://github.com/Shad-Sheikh/C-Programs/blob/master/C-Programs/100_fprintf_fscanf.c)
