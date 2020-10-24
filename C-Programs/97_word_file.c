@@ -1,3 +1,4 @@
+// NOTE : save the "file.txt" and this program in the same directery and put some data in "file.txt"
 #include<stdio.h>
 int main()
 {
