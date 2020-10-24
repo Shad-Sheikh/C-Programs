@@ -1,0 +1,33 @@
+#include<stdio.h>
+struct airline_data
+{
+float flight_no;
+char org_airport_code[3];
+char det_airport_code[3];
+float str_time;
+float arv_time;
+};
+
+void main()
+{
+struct airline_data *flights_ptr,f1;
+flights_ptr = &f1;
+int i;
+printf("Enter Flight Number : ");
+scanf("%f",&flights_ptr->flight_no);
+printf("Enter Originating Airport Code : ");
+scanf("%s",&flights_ptr->org_airport_code);
+printf("Enter Destination Airport Code : ");
+scanf("%s",&flights_ptr->det_airport_code);
+printf("Enter Starting time : ");
+scanf("%f",&flights_ptr->str_time);
+printf("Enter Arrival time : ");
+scanf("%f",&flights_ptr->arv_time);
+
+printf("\n\nFlight Number : %.2f",flights_ptr->flight_no);
+printf("\nOriginating Airport Code : %s",flights_ptr->org_airport_code);
+printf("\nEnter Destination Airport Code : %s",flights_ptr->det_airport_code);
+printf("\nEnter Starting time : %.2f",flights_ptr->str_time);
+printf("\nEnter Arrival time : %.2f",flights_ptr->arv_time);
+
+}
